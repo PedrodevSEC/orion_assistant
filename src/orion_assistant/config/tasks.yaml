@@ -1,0 +1,6 @@
+search_task:
+  description: > 
+    Buscar dados sobre o tema {topic} de fontes confiáveis.
+  expected_output: > 
+    Um texto simples, formatado em **Markdown** sobre o conteúdo encontrado.
+  agent: researcher
